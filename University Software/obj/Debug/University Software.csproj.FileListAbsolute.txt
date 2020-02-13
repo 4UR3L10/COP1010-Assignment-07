@@ -1,0 +1,10 @@
+C:\Users\aurel\Desktop\COP1010-Assignment 07\University Software\bin\Debug\University Software.exe.config
+C:\Users\aurel\Desktop\COP1010-Assignment 07\University Software\bin\Debug\University Software.exe
+C:\Users\aurel\Desktop\COP1010-Assignment 07\University Software\bin\Debug\University Software.pdb
+C:\Users\aurel\Desktop\COP1010-Assignment 07\University Software\obj\Debug\University Software.csprojAssemblyReference.cache
+C:\Users\aurel\Desktop\COP1010-Assignment 07\University Software\obj\Debug\University_Software.MainMenu.resources
+C:\Users\aurel\Desktop\COP1010-Assignment 07\University Software\obj\Debug\University_Software.Properties.Resources.resources
+C:\Users\aurel\Desktop\COP1010-Assignment 07\University Software\obj\Debug\University Software.csproj.GenerateResource.cache
+C:\Users\aurel\Desktop\COP1010-Assignment 07\University Software\obj\Debug\University Software.csproj.CoreCompileInputs.cache
+C:\Users\aurel\Desktop\COP1010-Assignment 07\University Software\obj\Debug\University Software.exe
+C:\Users\aurel\Desktop\COP1010-Assignment 07\University Software\obj\Debug\University Software.pdb

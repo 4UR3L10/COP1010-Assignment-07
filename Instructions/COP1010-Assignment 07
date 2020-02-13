@@ -1,0 +1,76 @@
+COP1010-Assignment 07  
+
+Read:Readme.txt of The project on Github.
+
+[Optional Reading (For the curious)]:
+Chapter 09
+
+[Requiered To know, but no necessary]: 
+9.1 - Know how to add a class
+9.6 - Create Multiple Forms in a Project
+
+[Useful Links.]
+https://www.draw.io/ (UML SHOULD BE DONE BY A FILE .drawio)
+https://stackoverflow.com/
+http://www.iconarchive.com/questions/29664414/inconsistent-accessibilityparameter-type-is-less-accessible-than-a-method
+https://stackoverflow.com/questions/5718990/how-to-create-objects-dynamically-with-c
+(Learning:)
+https://drive.google.com/open?id=1QdGoCbNERwp4k7VXc_ERFJOXcGzAyjhV
+https://drive.google.com/open?id=14v_5t8ozOifrdMnaCpiXkbp4PC3ljYsL
+https://www.linkedin.com/ [Miguel (Use FIU Account)]
+(Installations:)
+Visual Studio:
+https://developer.microsoft.com/en-us/windows/downloads
+GitHub Desktop:
+https://desktop.github.com/
+
+General Information:
+- THIS PROGRAM DO NOT USE INHERITANCE (kind of). Just finish your classes and forms do not worry about anything else.
+- ID only contains numbers
+- Requirement for all the previous assignments are implicit (If applicable)
+- UML will be partially provided by your Developer Lead
+- Your program should work 101% (Which means that additional code might be required to accomplish this).*
+
+A university hired us to make a program for them. Your Developer Lead is making sure to split the work among the developers. The specifications are:
+
+[William]
+The following description was made by the university:
+We need to store the information about the student id, firstname, lastname, gpa, major out of the ones we have (Computer Science, Information Technology, Computer Engineer, Software Engineer), if the student is international or not, depending if it is checked or not, graduate or undergraduate one of those two options.
+
+Your technical lead said your are in charge of add students:
+- YOU MUST ONLY WORK IN YOUR FORM AND CLASS ASSIGNED.
+- DO NOT MOVE OR CHANGE OTHERS FORMS OR CLASSES.(You can take a look at it and test while running but do not change a line or move anything that it is not assigned to you)
+- You are in charge of the student class.
+- You are in charge of the add student form.
+- Make the proper assumptions to implement your form.
+- You will put in practice almost all of what you learned so far.
+- You are free to use (NOT CHANGE) the StudentDBS class.
+- Update UML (Use the .drawio file)
+- Do the flowchart of at least one part of your code.
+
+[Miguel]
+The following description was made by the university:
+We need to pull the student that we need to delete by id or name and show it with all of the information he/she has. We need also to be able to select it and then delete the student.
+
+Your technical lead said your are in charge of deleting students:
+- YOU MUST ONLY WORK IN YOUR FORM AND CLASS ASSIGNED.
+- DO NOT MOVE OR CHANGE OTHERS FORMS OR CLASSES.(You can take a look at it and test WHILE RUNNING but do not change a line or move anything that it is not assigned to you)
+- You are in charge of the delete student form.
+- Make the proper assumptions to implement your form.
+- You are free to use (NOT CHANGE) the StudentDBS class.
+- Do the flowchart of at least one part of your code.
+
+[Aurelio]
+- Finish the UML
+- FLowchart
+- Update Information of the Students
+- Rest of the program
+
+To be Accepted:
+Code (Comments,Efficiency,Naming,Format,Correct Output)
+GUI  (Naming,Correct Output)
+Flowchart (Correct Output)
+UML (Correct Output)
+
+
+
